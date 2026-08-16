@@ -1,6 +1,8 @@
 <?php
 
         // Global Middleware and Logic Middleware
+
+        // Global Middleware and Logic Middleware
     namespace App\Http\Middleware;
 
     use Closure;
